@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Jalen! <br/><a <a href="www.linkedin.com/in/jalen-doy">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Blue Team Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <!--
-**JalenDoy/JalenDoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
