@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Blue Team Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Cyber Detection and Monitoring Lab </b>
+  - [Installation and Configuration (pfSense, Security Onion, and Splunk)](https://github.com/JalenDoy/CybersecurityDetectionAndMonitoringLab)
 
 
 <!--
