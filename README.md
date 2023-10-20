@@ -6,7 +6,7 @@
   - [Installation and Configuration (pfSense, Security Onion, and Splunk)](https://github.com/JalenDoy/CybersecurityDetectionAndMonitoringLab)
 
 - <b> TryHackMe CTFs (Blue Team) </b>
-  - [Wireshark Exercises](https://github.com/JalenDoy/WiresharkExercises-)
+  - [Wireshark Rooms and CTFs ](https://github.com/JalenDoy/Wireshark-Rooms-and-CTFs/blob/main/README.md)
 
  <h2>Red Team Cybersecurity Projects:</h2>
 
