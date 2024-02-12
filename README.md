@@ -18,8 +18,8 @@
   - [Introducing Amazon Elastic File System (EFS)](https://github.com/JalenDoy/Introducing-Amazon-Elastic-File-System-EFS-)
   - [Creating an Amazon RDS Database](https://github.com/JalenDoy/Creating-An-Amazon-RDS-Database)
   - [Creating a Virtual Private Cloud](https://github.com/JalenDoy/Creating-a-Virtual-Private-Cloud)
-  - [Create a Highly Availablee Environment Lab](https://github.com/JalenDoy/CybersecurityDetectionAndMonitoringLab)
-  - [Create a Highly Availablee Environment Lab](https://github.com/JalenDoy/CybersecurityDetectionAndMonitoringLab)
+  - [Create a VPC Peering Connection](https://github.com/JalenDoy/Create-a-VPC-Peering-Connection)
+  - [Streaming Dynamic Content Using CloudFront](https://github.com/JalenDoy/Streaming-Dynamic-Content-Using-CloudFront)
 
 
  
