@@ -11,6 +11,18 @@
  <h2>Red Team Cybersecurity Projects:</h2>
 
  <h2>Cloud Computing Projects:</h2>
+
+- <b> AWS School Projects/Lab </b>
+  - [Create a Highly Availablee Environment Lab](https://github.com/JalenDoy/Creating-A-Highly-Available-Environment-Lab)
+  - [Hosting a Static Website](https://github.com/JalenDoy/Hosting-A-Static-Website)
+  - [Introducing Amazon Elastic File System (EFS)](https://github.com/JalenDoy/Introducing-Amazon-Elastic-File-System-EFS-)
+  - [Creating an Amazon RDS Database](https://github.com/JalenDoy/Creating-An-Amazon-RDS-Database)
+  - [Creating a Virtual Private Cloud](https://github.com/JalenDoy/Creating-a-Virtual-Private-Cloud)
+  - [Create a Highly Availablee Environment Lab](https://github.com/JalenDoy/CybersecurityDetectionAndMonitoringLab)
+  - [Create a Highly Availablee Environment Lab](https://github.com/JalenDoy/CybersecurityDetectionAndMonitoringLab)
+
+
+ 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
