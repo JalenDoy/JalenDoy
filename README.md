@@ -8,6 +8,7 @@
 - <b> TryHackMe CTFs (Blue Team) </b>
   - [Wireshark Rooms and CTFs ](https://github.com/JalenDoy/Wireshark-Rooms-and-CTFs/blob/main/README.md)
   - [Splunk Basics](https://github.com/JalenDoy/SplunkBasics)
+  - [Incident Handling With Splunk](https://github.com/JalenDoy/IncidentHandlingWithSplunk/blob/main/README.md)
 
  <h2>Red Team Cybersecurity Projects:</h2>
 
